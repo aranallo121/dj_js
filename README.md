@@ -1,0 +1,1 @@
+This repo was created as a practice using JS event listeners. The behavior is that when clicked, hovered-over, hovered away from, and double-clicked the square will change colors.
